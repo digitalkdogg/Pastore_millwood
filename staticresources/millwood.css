@@ -40,11 +40,11 @@
 }
 
 .top_panel_inner_style_3 .top_panel_top {
-    background-color: rgb(255 255 255 / 77%);
+    background-color: rgba(255, 255, 255,0.4);
 }
 
 .top_panel_middle {
-    background-color: rgb(255 255 255 / 77%);
+    background-color: rgb(255, 255, 255, 0.4);
 }
 
 .top_panel_fixed .top_panel_middle {
@@ -57,6 +57,7 @@ div.header_mobile {
     background-position: initial;
     min-height: 150px;
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 div.header_mobile div.content_wrap {
